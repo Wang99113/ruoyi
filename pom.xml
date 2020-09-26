@@ -224,6 +224,12 @@
         <module>ruoyi-quartz</module>
         <module>ruoyi-generator</module>
         <module>ruoyi-common</module>
+        <module>ruoyi-enterprise</module>
+        <module>ruoyi-enterprise</module>
+        <module>ruoyi-job</module>
+        <module>ruoyi-mail</module>
+        <module>ruoyi-student</module>
+        <module>ruoyi-statistic</module>
     </modules>
     <packaging>pom</packaging>
 
